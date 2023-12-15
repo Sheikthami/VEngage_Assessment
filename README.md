@@ -38,9 +38,4 @@ DELETE FROM phone_records WHERE name=’John’
 
 This statement should delete the record from the dataset. vEngageai
 
-About
-vEngageai
 
-Resources
- Readme
-# VEngage_Assessment
